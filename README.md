@@ -1,4 +1,34 @@
-### Hi there 👋
+<h1 align="left">
+    Hi there
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="35"
+         width="35" />
+    I am Lorenzo!
+</h1>
+
+PhD student in **computational fluid dynamics**, **combustion**, and **machine learning**.
+
+### 💻 Currently working on
+
+**aPriori** - python package for processing DNS of combustion
+
+### 🚀 Projects
+
+- **compressible...** - OpenFOAM solver for multiphase heat exchangers
+- **aPriori** - python package for processing DNS of combustion
+
+### 📔 Education
+
+- 🇮🇹 2017-2020 : BSc in aerospace engineering at Politecnico di Torino
+- 🇮🇹 2020-2023 : MSc in aerospace engineering at Politecnico di Torino
+- 🇧🇪 2022-2023 : Internship and Master's thesis at von Karman Institute for Fluid Dynamics
+- 🇧🇪 2023-2027 : PhD at Université Libre de Bruxelles
+
+### 📫 Contact information 
+
+- 📧 Email: lorenzo.piu@ulb.be
+- 🌐 LinkedIn: [www.linkedin.com/in/lorenzopiu/](https://www.linkedin.com/in/lorenzopiu/)
 
 <!--
 **LorenzoPiu/LorenzoPiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
