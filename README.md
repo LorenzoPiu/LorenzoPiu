@@ -15,7 +15,7 @@ PhD student in **computational fluid dynamics**, **combustion**, and **machine l
 
 ### 🚀 Projects
 
-- **compressible...** - OpenFOAM solver for multiphase heat exchangers
+- **compressiblePhaseChangeInterFoam** - OpenFOAM solver for multiphase heat exchangers
 - **aPriori** - python package for processing DNS of combustion
 
 ### 📔 Education
