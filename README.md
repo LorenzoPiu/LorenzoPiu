@@ -11,7 +11,7 @@ PhD student in **computational fluid dynamics**, **combustion**, and **machine l
 
 ### 💻 Currently working on
 
-**aPriori** - python package for processing DNS of combustion
+[**aPriori**](https://github.com/LorenzoPiu/aPrioriDNS) - python package for processing DNS of combustion
 
 ### 🚀 Projects
 
