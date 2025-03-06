@@ -25,6 +25,10 @@ PhD student in **computational fluid dynamics**, **combustion**, and **machine l
 - 🇧🇪 2022-2023 : Internship and Master's thesis at von Karman Institute for Fluid Dynamics
 - 🇧🇪 2023-2027 : PhD at Université Libre de Bruxelles
 
+### 📝 Recent Publications
+
+- 2025 : [A Data-Driven Approach to Refine the Partially Stirred Reactor Closure for Turbulent Premixed Flames](https://link.springer.com/article/10.1007/s10494-024-00626-3)
+
 ### 📫 Contact information 
 
 - 📧 Email: lorenzo.piu@ulb.be
