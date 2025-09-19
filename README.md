@@ -24,7 +24,7 @@ PhD student in **computational fluid dynamics**, **combustion**, and **machine l
 - 🇮🇹 2017-2020 : BSc in aerospace engineering at Politecnico di Torino
 - 🇮🇹 2020-2023 : MSc in aerospace engineering at Politecnico di Torino
 - 🇧🇪 2022-2023 : Internship and Master's thesis at von Karman Institute for Fluid Dynamics
-- 🇧🇪 2023-2027 : PhD at Université Libre de Bruxelles
+- 🇧🇪 2023-2027 : PhD at Université Libre de Bruxelles & RWTH Aachen University
 
 ### 📝 Recent Publications
 
