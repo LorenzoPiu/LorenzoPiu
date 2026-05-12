@@ -16,7 +16,7 @@ PhD student in **computational fluid dynamics**, **combustion**, and **machine l
 ### 🚀 Projects
 
 - **compressiblePhaseChangeInterFoam** - OpenFOAM solver for multiphase heat exchangers;
-- **aPriori** - a python package for processing Direct Numerical Simulations (DNS);
+- **aPriori** - a python package to process Direct Numerical Simulations (DNS);
 - [**BBB demo**](https://github.com/LorenzoPiu/Bayes_by_backprop_demo) - a simple PyTorch-based demo to train and visualize Bayesian neural networks trained with the Bayes By Backprop (BBB) algorithm.
 
 ### 📔 Education
