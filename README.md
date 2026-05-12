@@ -11,7 +11,7 @@ PhD student in **computational fluid dynamics**, **combustion**, and **machine l
 
 ### 💻 Currently working on
 
-[**aPriori**](https://github.com/LorenzoPiu/aPrioriDNS) - a Python package for processing Direct Numerical Simulations (DNS).
+[**aPriori**](https://github.com/LorenzoPiu/aPrioriDNS) - a Python package to process Direct Numerical Simulations (DNS).
 
 ### 🚀 Projects
 
