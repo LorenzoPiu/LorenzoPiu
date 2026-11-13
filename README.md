@@ -28,6 +28,8 @@ PhD student in **computational fluid dynamics**, **combustion**, and **machine l
 
 ### 📝 Recent Publications
 
+- 2026 : [Optimal sub-model selection through stochastic modeling of Partially Stirred
+Reactor model](https://www.sciencedirect.com/science/article/pii/S1540748926006942)
 - 2025 : [A Data-Driven Approach to Refine the Partially Stirred Reactor Closure for Turbulent Premixed Flames](https://link.springer.com/article/10.1007/s10494-024-00626-3)
 
 ### 📫 Contact information 
